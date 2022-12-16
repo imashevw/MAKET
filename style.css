@@ -60,4 +60,20 @@ button {
 }
 .header-2 {
     float: right;
+    padding-right: 20px;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+.container .img-1 {
+    padding-bottom: 20px;
+}
+.main .header-3 img {
+    float: left;
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 40px;
+}
+.main .header-4 {
+    padding-top: 390px;
+    padding-right: 50px;
 }
