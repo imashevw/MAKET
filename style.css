@@ -90,3 +90,18 @@ button {
      padding-top: 100px;
      padding-left: 40px;
  }
+ main .header-7 {
+    align-items: center;
+    text-align: center;
+    padding-top: 1000px;
+    padding-left: 428px;
+    padding-right: 428px;
+ }
+ main .btn-2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 550px;
+    font-size: 18px;
+ }
