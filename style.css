@@ -122,3 +122,9 @@ button {
     padding-left: 100px;
     padding-top: 60px;
  }
+ .main-4 .content-1 {
+    float: left;
+    max-width: 550px;
+    margin-top: 130px;
+    margin-left: 50px;
+ }
