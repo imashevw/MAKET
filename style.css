@@ -53,6 +53,12 @@ button {
     display: flex;
 
 }
+.container .header-1 .play-logo {
+  height: 27px;
+  width: 27px;
+  border-radius: 2px solid black;
+  margin-right: 8px;
+}   
 .header-1 {
     float: left;
     max-width: 550px;
