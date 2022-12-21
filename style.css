@@ -9,6 +9,72 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #222222;
 }
+/* h1 {
+  font-size: 56px;
+}
+h2 {
+  font-size: 48px;
+}
+h3 {
+  font-size: 40px;
+}
+h4 {
+  font-size: 32px;
+}
+h5 {
+  font-size: 24px;
+}
+h6 {
+  font-size: 16px;
+} */
+.row { /* строка */
+  display: flex;
+  flex-wrap: wrap;
+}
+[class^="col"] {
+  padding: 0 10px;
+}
+.col-1 {
+  flex: 8.3% 0 0;
+}
+.col-2 {
+  flex: 16.6% 0 0;
+}
+.col-3 {
+  flex: 25% 0 0;
+}
+.col-4 {
+  flex: 33.3% 0 0;
+  
+}
+.col-5 {
+  flex: 41.6% 0 0;
+}
+.col-6 {
+  flex: 50% 0 0;
+}
+.col-7 {
+  flex: 58.3% 0 0;
+}
+.col-8 {
+  flex: 66.6% 0 0;
+}
+.col-9 {
+  flex: 75% 0 0;
+}
+.col-10 {
+  flex: 83% 0 0;
+}
+.col-11 {
+  flex: 91.6% 0 0;
+}
+.col-12 {
+  flex: 100% 0 0;
+}
+.container {
+  max-width: 1440px;
+  
+}
 nav {
   display: flex;
   background-color: white;
@@ -46,14 +112,14 @@ button {
 .first {
     margin-right: 20px;
 }
-.container {
+.main {
     display: flex;
 }
-.container .header-1 .header-2 {
+.main .header-1 .header-2 {
     display: flex;
 
 }
-.container .header-1 .play-logo {
+.main .header-1 .play-logo {
   height: 27px;
   width: 27px;
   border-radius: 2px solid black;
@@ -74,13 +140,13 @@ button {
 .container .img-1 {
     padding-bottom: 20px;
 }
-.main .header-3 img {
+.main-1 .header-3 img {
     float: left;
     padding-top: 100px;
     padding-right: 50px;
     padding-left: 40px;
 }
-.main .header-4 {
+.main-1 .header-4 {
     padding-top: 390px;
     padding-right: 50px;
 }
