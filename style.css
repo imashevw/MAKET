@@ -191,7 +191,7 @@ button {
     align-items: center;
     border-bottom: 1px solid gray;
     width: 17%;
-    margin-left: 523px;
+    margin: 0 auto;
     margin-top: 30px;
  }
  .main-3 .header-8 img {
