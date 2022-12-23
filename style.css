@@ -140,11 +140,14 @@ button {
 .container .img-1 {
     padding-bottom: 20px;
 }
+.main-1 {
+    display: flex;
+    justify-content: space-between;
+}
 .main-1 .header-3 img {
-    float: left;
-    padding-top: 100px;
-    padding-right: 50px;
-    padding-left: 40px;
+  padding-top: 100px;
+  padding-right: 50px;
+  padding-left: 40px;
 }
 .main-1 .header-4 {
     padding-top: 390px;
@@ -153,7 +156,7 @@ button {
 .main-2 {
     display: flex;
     justify-content: space-between;
-    margin-top: 400px;
+    margin-top: 100px;
     margin-left: 40px;
 }
 .main-2 .header-5 {
