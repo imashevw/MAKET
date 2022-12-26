@@ -258,3 +258,11 @@ header {
   margin-right: 40px;
   margin-top: 290px;
 }
+footer .footer-top {
+  display: flex;
+  background-color: white;
+  justify-content: center;
+  border-bottom: 1px solid gray;
+  padding: 15px;
+  width: 100%;
+}
