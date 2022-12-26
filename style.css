@@ -249,7 +249,8 @@ header {
   justify-content: space-between;
 }
 .main-7 .content-7 {
-  
+  margin-left: 40px;
+  margin-top: 160px;
 }
 .main-7 .content-8 {
   max-width: 470px;
