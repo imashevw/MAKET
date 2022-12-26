@@ -258,6 +258,9 @@ header {
   margin-right: 40px;
   margin-top: 290px;
 }
+footer {
+  border-top: 1px solid black;
+}
 footer .footer-top {
   display: flex;
   background-color: white;
@@ -269,4 +272,15 @@ footer .footer-top {
 footer .footer-top ul {
   display: flex;
   justify-content: center;
+}
+footer .footer-top li {
+  padding-right: 25px;
+  list-style-type: none;
+  justify-content: center;
+}
+footer .footer-top a {
+  color: black;
+  text-decoration: none;
+  justify-content: center;
+  margin-right: 130px;
 }
