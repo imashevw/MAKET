@@ -230,3 +230,16 @@ header {
   padding-right: 40px;
   padding-left: 40px;
  }
+ .main-6 {
+  display: flex;
+  justify-content: space-between;
+ }
+ .main-6 .content-5 {
+  max-width: 550px;
+  margin-top: 140px;
+  margin-left: 40px;
+  margin-right: 40px;
+ }
+.main-6 .content-6 {
+  margin-top: 60px;
+}
