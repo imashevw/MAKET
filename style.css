@@ -124,7 +124,11 @@ button {
   width: 27px;
   border-radius: 2px solid black;
   margin-right: 8px;
-}   
+} 
+header {
+  display: flex;
+  justify-content: space-between;
+}  
 .header-1 {
     max-width: 550px;
     margin-top: 130px;
@@ -135,7 +139,7 @@ button {
     padding-top: 40px;
     padding-left: 40px;
 }
-.container .img-1 {
+.header-1 .img-1 {
     padding-bottom: 20px;
 }
 .main-1 {
@@ -148,6 +152,7 @@ button {
   padding-left: 40px;
 }
 .main-1 .header-4 {
+    /* max-width: 550px; */
     padding-top: 390px;
     padding-right: 50px;
 }
