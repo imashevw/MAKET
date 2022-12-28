@@ -285,3 +285,6 @@ footer .footer-top a {
   justify-content: center;
   margin-right: 130px;
 }
+footer .footer-top .li-second {
+  margin-top: 25px;
+}
