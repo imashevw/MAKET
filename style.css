@@ -261,7 +261,7 @@ header {
 footer {
   border-top: 1px solid black;
 }
-footer .footer-top {
+footer {
   display: flex;
   background-color: white;
   justify-content: center;
