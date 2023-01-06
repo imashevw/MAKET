@@ -156,16 +156,16 @@ header {
     padding-top: 390px;
     padding-right: 50px;
 }
-.main-2 {
+.shopping-online {
     display: flex;
     justify-content: space-between;
     margin-top: 100px;
     margin-left: 40px;
 }
-.main-2 .zen-shopping {
+.shopping-online .zen-shopping {
   margin-top: 200px;
 }
-.main-2 .header-6 {
+.shopping-online .header-6 {
      padding-right: 20px;
      padding-top: 5px;
      padding-left: 40px;
