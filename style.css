@@ -142,16 +142,16 @@ header {
 .Peaceful-shopping .img-1 {
     padding-bottom: 20px;
 }
-.main-1 {
+.information-zencard {
     display: flex;
     justify-content: space-between;
 }
-.main-1 .header-3 img {
+.information-zencard .header-3 img {
   padding-top: 100px;
   padding-right: 50px;
   padding-left: 40px;
 }
-.main-1 .header-4 {
+.information-zencard .header-4 {
     /* max-width: 550px; */
     padding-top: 390px;
     padding-right: 50px;
