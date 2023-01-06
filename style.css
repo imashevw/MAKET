@@ -119,7 +119,7 @@ button {
     display: flex;
 
 }
-.main .header-1 .play-logo {
+.main .Peaceful-shopping .play-logo {
   height: 27px;
   width: 27px;
   border-radius: 2px solid black;
@@ -134,12 +134,12 @@ header {
     margin-top: 130px;
     margin-left: 40px;
 }
-.header-2 { 
+.card-phone { 
     padding-right: 20px;
     padding-top: 40px;
     padding-left: 40px;
 }
-.header-1 .img-1 {
+.Peaceful-shopping .img-1 {
     padding-bottom: 20px;
 }
 .main-1 {
