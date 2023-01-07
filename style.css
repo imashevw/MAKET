@@ -226,13 +226,10 @@ header {
     justify-content: space-between;
     /* flex: 1 1 100%; */
  }
- .zen-functionality .content-3 {
-  /* max-width: 475px; */
-  /* margin-top: 250px; */
-  margin-left: 40px;
-  margin-right: 40px;
- }
- .zen-functionality .content-4 {
+ /* .zen-functionality .content-3 {
+  
+ } */
+ .zen-functionality .no-commission {
   padding-top: 140px;
   padding-right: 40px;
   padding-left: 40px;
