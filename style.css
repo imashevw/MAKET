@@ -206,12 +206,12 @@ header {
     display: flex;
     justify-content: space-between;
  }
- .mastercard .content-1 {
+ .mastercard .card-convenience {
   padding-left: 40px;
   padding-right: 40px;
   padding-top: 280px;
  }
- .mastercard .content-1 img {
+ .mastercard .card-convenience img {
     padding-right: 20px;
     padding-top: 20px;
     
