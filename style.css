@@ -137,7 +137,7 @@ header {
 .card-phone { 
     padding-right: 20px;
     padding-top: 40px;
-    padding-left: 40px;
+    padding-left: 40px;   
 }
 .Peaceful-shopping .img-1 {
     padding-bottom: 20px;
@@ -253,11 +253,11 @@ header {
   justify-content: space-between;
   margin-bottom: 200px;
 }
-.download-the-app .content-7 {
+.download-the-app .buying-food {
   margin-left: 40px;
   margin-top: 160px;
 }
-.download-the-app .content-8 {
+.download-the-app .work-process {
   max-width: 470px;
   margin-right: 40px;
   margin-top: 290px;
@@ -287,6 +287,5 @@ footer a {
   color: black;
   text-decoration: none;
   justify-content: space-between;
-  
 }
 
