@@ -238,7 +238,7 @@ header {
   display: flex;
   justify-content: space-between;
  }
- .zen-account .content-5 {
+ .zen-account .account-information {
   max-width: 475px;
   margin-top: 250px;
   margin-left: 40px;
