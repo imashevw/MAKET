@@ -248,16 +248,16 @@ header {
   margin-top: 80px;
   margin-right: 40px;
 }
-.main-7 {
+.download-the-app {
   display: flex;
   justify-content: space-between;
   margin-bottom: 200px;
 }
-.main-7 .content-7 {
+.download-the-app .content-7 {
   margin-left: 40px;
   margin-top: 160px;
 }
-.main-7 .content-8 {
+.download-the-app .content-8 {
   max-width: 470px;
   margin-right: 40px;
   margin-top: 290px;
@@ -276,16 +276,17 @@ footer {
 }
 footer ul {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
 }
 footer li {
   padding-right: 25px;
   list-style-type: none;
-  justify-content: center;
+  justify-content: space-between;
 }
 footer a {
   color: black;
   text-decoration: none;
-  justify-content: center;
+  justify-content: space-between;
+  
 }
 
