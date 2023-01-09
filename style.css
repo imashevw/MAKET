@@ -299,4 +299,6 @@ footer a {
   text-decoration: none;
   margin-top: 25px;
 }
-
+footer ul li img {
+  padding-top: 22px;
+}
