@@ -304,4 +304,9 @@ footer ul li img {
 .footer-content {
   margin-top: 60px;
   margin-left: 80px;
+  
+}
+.footer-content p {
+  font-size: 12px;
+  
 }
