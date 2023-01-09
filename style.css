@@ -308,5 +308,5 @@ footer ul li img {
 }
 .footer-content p {
   font-size: 12px;
-  
+  max-width: 800px;
 }
