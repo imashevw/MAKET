@@ -277,6 +277,13 @@ footer {
 footer ul {
   margin: 0 auto;
 
+
+}
+footer .top-footer {
+  display: flex;
+}
+footer .top-footer ul a {
+  margin-right: 100px;
 }
 footer li {
   display: flex;
