@@ -73,7 +73,7 @@ h6 {
 }
 .container {
   max-width: 1440px;
-  
+  margin: 0 auto;
 }
 nav {
   display: flex;
@@ -115,10 +115,9 @@ button {
 .main {
     display: flex;
 }
-.main .header-1 .header-2 {
-    display: flex;
+/* .main .header-1 .header-2 {
+    display: flex; */
 
-}
 .main .Peaceful-shopping .play-logo {
   height: 27px;
   width: 27px;
