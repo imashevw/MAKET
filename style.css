@@ -194,6 +194,11 @@ header {
      padding-top: 5px;
      padding-left: 40px;
  }
+ @media screen and (max-width: 900px) {
+  .shopping-online {
+   flex-wrap: wrap;
+  }
+}
  main .cashback {
     /* align-items: center; */
     text-align: center;
