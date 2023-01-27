@@ -175,6 +175,11 @@ header {
     padding-top: 390px;
     padding-right: 50px;
 }
+@media screen and (max-width: 900px) {
+  .information-zencard {
+   flex-wrap: wrap;
+  }
+}
 .shopping-online {
     display: flex;
     justify-content: space-between;
