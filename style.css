@@ -110,15 +110,21 @@ button {
   display: none;
 }
 @media screen and (max-width: 900px) {
-   nav ul {
+  nav {
+    margin: 0 auto;
+  }
+  nav ul {
     display: none;
 
    }
    button {
-    display: none;
+    /* display: none; */
+    width: 100px;
+    margin-left: 100px;
    }
    .nav-btn {
     display: block;
+    width: 60px;
    }
 }
 .business {
@@ -159,6 +165,7 @@ header {
 @media screen and (max-width: 900px) {
     header {
      flex-wrap: wrap;
+  
     }
 }
 .information-zencard {
