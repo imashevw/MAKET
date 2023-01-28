@@ -221,6 +221,12 @@ header {
    flex-wrap: wrap-reverse;
    
   }
+  .zencard-function {
+    margin-left: 40px;
+    font-size: 20px;
+    margin-top: -200px;
+  }
+
 }
 .shopping-online {
     display: flex;
@@ -240,6 +246,7 @@ header {
   .shopping-online {
    flex-wrap: wrap;
    margin-top: -100px;
+   
   }
   
 }
