@@ -104,12 +104,27 @@ nav a {
     width: 130px;
     height: 50px;
     font-size: 16px;
+    margin-left: 10px;
 
 }
 .nav-btn {
   display: none;
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
+  .business {
+    margin-right: 100px;
+    margin: 0 auto;
+  }
+}
+@media screen and (max-width: 1124px) {
+  nav {
+    width: 100%;
+  }
+  .business {
+    margin-right: 100px;
+  }
+}
+@media screen and (max-width: 1100px) {
   nav {
     margin: 0 auto;
   }
@@ -133,7 +148,7 @@ nav a {
    }
 }
 .business {
-    margin-right: 487px;
+    margin-right: 480px;
 }
 .first {
     margin-right: 20px;
@@ -167,9 +182,9 @@ header {
 .peaceful-shopping .img-1 {
     padding-bottom: 20px;
 }
-@media screen and (max-width: 1123px) {
+@media screen and (max-width: 1124px) {
 .card-phone {
-     background-size: cover;
+  object-fit: cover;
   }
 }
 @media screen and (max-width: 900px) {
