@@ -97,7 +97,7 @@ nav a {
   text-decoration: none;
   justify-content: center;
 }
-button {
+.download {
     justify-items: flex-end;
     border-radius: 48px;
     background-color: white;
@@ -117,14 +117,19 @@ button {
     display: none;
 
    }
-   button {
+   .download {
     /* display: none; */
     width: 100px;
-    margin-left: 10px;
+    margin-left: 200px;
    }
    .nav-btn {
     display: block;
     width: 60px;
+    border-radius: 15px;
+    background-color: white;
+    height: 50px;
+    font-size: 16px;
+    margin-left: 10px;
    }
 }
 .business {
@@ -162,10 +167,18 @@ header {
 .peaceful-shopping .img-1 {
     padding-bottom: 20px;
 }
+@media screen and (max-width: 1123px) {
+.card-phone {
+     background-size: cover;
+  }
+}
 @media screen and (max-width: 900px) {
     header {
      flex-wrap: wrap;
   
+    }
+    .card-phone {
+      background-size: cover;
     }
 }
 .information-zencard {
