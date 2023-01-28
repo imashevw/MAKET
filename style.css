@@ -120,7 +120,7 @@ button {
    button {
     /* display: none; */
     width: 100px;
-    margin-left: 100px;
+    margin-left: 10px;
    }
    .nav-btn {
     display: block;
