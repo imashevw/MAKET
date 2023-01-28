@@ -177,7 +177,8 @@ header {
 .card-phone { 
     padding-right: 20px;
     padding-top: 40px;
-    padding-left: 40px;   
+    padding-left: 40px;
+    object-fit: cover;   
 }
 .peaceful-shopping .img-1 {
     padding-bottom: 20px;
@@ -185,6 +186,11 @@ header {
 @media screen and (max-width: 1124px) {
 .card-phone {
   object-fit: cover;
+  }
+  .peaceful-shopping {
+    max-width: 100%;
+    justify-items: center;
+    font-size: 20px;
   }
 }
 @media screen and (max-width: 1124px) {
@@ -210,9 +216,10 @@ header {
     padding-top: 390px;
     padding-right: 50px;
 }
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1124px) {
   .information-zencard {
-   flex-wrap: wrap;
+   flex-wrap: wrap-reverse;
+   
   }
 }
 .shopping-online {
@@ -229,10 +236,12 @@ header {
      padding-top: 5px;
      padding-left: 40px;
  }
- @media screen and (max-width: 900px) {
+ @media screen and (max-width: 1124px) {
   .shopping-online {
    flex-wrap: wrap;
+   margin-top: -100px;
   }
+  
 }
  main .cashback {
     /* align-items: center; */
