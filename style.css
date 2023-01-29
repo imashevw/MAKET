@@ -310,7 +310,6 @@ header {
  .zen-functionality .no-commission {
   padding-top: 140px;
   padding-right: 40px;
-  padding-left: 40px;
  }
  @media screen and (max-width: 1124px) {
   .zen-functionality {
@@ -319,6 +318,7 @@ header {
   .no-commission {
     font-size: 20px;
     margin-top: -100px;
+    padding-left: 0px;
   }
  }
  .zen-account {
