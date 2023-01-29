@@ -7,25 +7,8 @@ body {
   padding: 0;
   font-family: 'Nunito', sans-serif;
   color: #222222;
+  font-weight: 400;
 }
-/* h1 {
-  font-size: 56px;
-}
-h2 {
-  font-size: 48px;
-}
-h3 {
-  font-size: 40px;
-}
-h4 {
-  font-size: 32px;
-}
-h5 {
-  font-size: 24px;
-}
-h6 {
-  font-size: 16px;
-} */
 .row { /* строка */
   display: flex;
   flex-wrap: wrap;
@@ -299,17 +282,21 @@ header {
  .mastercard .card-convenience img {
     padding-right: 20px;
     padding-top: 20px;
-    
+   
  }
  .mastercard .two-cards {
     padding-top: 97px;
+ }
+ @media screen and (max-width: 1124px) {
+  .mastercard {
+    flex-wrap: wrap;
+  }
  }
  .zen-functionality {
     margin-top: 130px;
     margin-left: 40px;
     display: flex;
     justify-content: space-between;
-    /* flex: 1 1 100%; */
  }
  /* .zen-functionality .content-3 {
   
@@ -351,7 +338,6 @@ footer {
   border-top: 1px solid black;
 }
 footer {
-  /* flex: 50% 0 0; */
   width: 100%;
   background-color: white;
   padding: 15px;
