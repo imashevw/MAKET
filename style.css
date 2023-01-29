@@ -291,6 +291,10 @@ header {
   .mastercard {
     flex-wrap: wrap;
   }
+  .card-convenience {
+    font-size: 20px;
+    margin-top: -100px;
+  }
  }
  .zen-functionality {
     margin-top: 130px;
@@ -325,6 +329,15 @@ header {
   margin-top: 80px;
   margin-right: 40px;
 }
+@media screen and (max-width: 1124px) {
+  .zen-account {
+    flex-wrap: wrap;
+  }
+  .account-information {
+    font-size: 20px;
+    margin-top: -100px;
+  }
+}
 .download-the-app {
   display: flex;
   justify-content: space-between;
@@ -338,6 +351,15 @@ header {
   max-width: 470px;
   margin-right: 40px;
   margin-top: 290px;
+}
+@media screen and (max-width: 1124px) {
+  .download-the-app {
+    flex-wrap: wrap-reverse;
+  }
+  .work-process {
+    font-size: 20px;
+    margin-top: -100px;
+  }
 }
 footer {
   border-top: 1px solid black;
