@@ -152,7 +152,7 @@ header {
   justify-content: space-between;
 }  
 .peaceful-shopping {
-    max-width: 550px;
+    /* max-width: 550px; */
     margin-top: 130px;
     margin-left: 40px;
 }
@@ -173,6 +173,8 @@ header {
     max-width: 100%;
     justify-items: center;
     font-size: 20px;
+    margin-right: 40px;
+    margin-top: 50px;
   }
 }
 @media screen and (max-width: 1124px) {
@@ -293,7 +295,7 @@ header {
   }
   .card-convenience {
     font-size: 20px;
-    margin-top: -100px;
+    margin-top: -200px;
   }
  }
  .zen-functionality {
@@ -314,13 +316,17 @@ header {
   .zen-functionality {
     flex-wrap: wrap-reverse;
   }
+  .no-commission {
+    font-size: 20px;
+    margin-top: -100px;
+  }
  }
  .zen-account {
   display: flex;
   justify-content: space-between;
  }
  .zen-account .account-information {
-  max-width: 475px;
+  /* max-width: 475px; */
   margin-top: 250px;
   margin-left: 40px;
   margin-right: 40px;
@@ -335,7 +341,10 @@ header {
   }
   .account-information {
     font-size: 20px;
-    margin-top: -100px;
+    margin-left: 40px;
+    max-width: none;
+    margin-top: -160px;
+
   }
 }
 .download-the-app {
@@ -348,7 +357,7 @@ header {
   margin-top: 160px;
 }
 .download-the-app .work-process {
-  max-width: 470px;
+  /* max-width: 470px; */
   margin-right: 40px;
   margin-top: 290px;
 }
@@ -358,7 +367,8 @@ header {
   }
   .work-process {
     font-size: 20px;
-    margin-top: -100px;
+    margin-top: -200px;
+    margin-left: 40px;
   }
 }
 footer {
