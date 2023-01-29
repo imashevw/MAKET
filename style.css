@@ -262,6 +262,11 @@ header {
     margin-top: 150px;
   
  }
+ @media screen and (max-width: 1124px) {
+  .cashback {
+    font-size: 20px;
+  }
+ }
  main .cashback h1 {
     font-size: 36px;
  }
@@ -270,10 +275,13 @@ header {
     justify-content: center;
     text-align: center;
     align-items: center;
-    border-bottom: 1px solid gray;
+    border: 1px solid black;
     width: 17%;
     margin: 0 auto;
     margin-top: 30px;
+    border-radius: 48px;
+    background-color: white;
+    padding: 12px 32px;
  }
  .logo .eight-logo img {
     flex: 25% 0 0;
