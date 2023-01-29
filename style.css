@@ -306,6 +306,11 @@ header {
   padding-right: 40px;
   padding-left: 40px;
  }
+ @media screen and (max-width: 1124px) {
+  .zen-functionality {
+    flex-wrap: wrap-reverse;
+  }
+ }
  .zen-account {
   display: flex;
   justify-content: space-between;
